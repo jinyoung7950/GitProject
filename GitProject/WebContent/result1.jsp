@@ -9,5 +9,6 @@
 <body>
 	<h2>result2</h2>
 	<h2>foo2 面倒 惯积</h2>
+	<h2>foo1 面倒 惯积</h2>
 </body>
 </html>
