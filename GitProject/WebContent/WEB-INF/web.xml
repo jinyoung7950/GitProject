@@ -19,4 +19,14 @@
     <servlet-name>GitServlet</servlet-name>
     <url-pattern>/GitServlet</url-pattern>
   </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>FooServlet</display-name>
+    <servlet-name>FooServlet</servlet-name>
+    <servlet-class>foo2.FooServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>FooServlet</servlet-name>
+    <url-pattern>/FooServlet</url-pattern>
+  </servlet-mapping>
 </web-app>
