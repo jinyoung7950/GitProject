@@ -8,5 +8,6 @@
 </head>
 <body>
 	<h1>result.jsp</h1>
+	<h2>remote repository</h2>
 </body>
 </html>	
