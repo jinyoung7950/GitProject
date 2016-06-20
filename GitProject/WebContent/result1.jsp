@@ -8,5 +8,6 @@
 </head>
 <body>
 	<h2>result2</h2>
+	<h2>foo1 충돌 발생</h2>
 </body>
 </html>
