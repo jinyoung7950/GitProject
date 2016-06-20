@@ -9,4 +9,14 @@
     <welcome-file>default.htm</welcome-file>
     <welcome-file>default.jsp</welcome-file>
   </welcome-file-list>
+  <servlet>
+    <description></description>
+    <display-name>GitServlet</display-name>
+    <servlet-name>GitServlet</servlet-name>
+    <servlet-class>foo.GitServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>GitServlet</servlet-name>
+    <url-pattern>/GitServlet</url-pattern>
+  </servlet-mapping>
 </web-app>
