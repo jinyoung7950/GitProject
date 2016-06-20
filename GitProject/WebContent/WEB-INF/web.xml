@@ -29,4 +29,14 @@
     <servlet-name>FooServlet</servlet-name>
     <url-pattern>/FooServlet</url-pattern>
   </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>FooSe</display-name>
+    <servlet-name>FooSe</servlet-name>
+    <servlet-class>foo3.FooSe</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>FooSe</servlet-name>
+    <url-pattern>/FooSe</url-pattern>
+  </servlet-mapping>
 </web-app>
